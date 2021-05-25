@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1616118100 source:d:\c++\board games\boardgames\main.cpp
+	<iostream>
+	"TextQuery.h"
+
+1621098494 source:d:\c++\board games\boardgames\src\information.cpp
+	"Information.h"
+
+1621098494 d:\c++\board games\boardgames\include\information.h
+	<iostream>
+	<string>
+	<vector>
+
+1621266748 source:d:\c++\board games\boardgames\src\textquery.cpp
+	"TextQuery.h"
+
+1621264908 d:\c++\board games\boardgames\include\textquery.h
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<cmath>
+	<algorithm>
+	<vector>
+	<limits>
+	"Information.h"
+
